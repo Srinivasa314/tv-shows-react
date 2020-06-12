@@ -32,12 +32,11 @@ img {
 
 .ShowName {
     height: 150px;
-    line-height: 150px;
     font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    overflow:hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
 }
 
 .loader {
