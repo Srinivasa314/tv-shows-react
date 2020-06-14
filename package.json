@@ -1,6 +1,7 @@
 {
   "name": "tv-shows",
   "version": "0.1.0",
+  "homepage": "https://srinivasa314.github.io/tv-shows-react/",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
