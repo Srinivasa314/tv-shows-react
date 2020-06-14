@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tv-shows-react/static/css/main.7562275d.chunk.css",
-    "main.js": "/tv-shows-react/static/js/main.57ba8dbc.chunk.js",
-    "main.js.map": "/tv-shows-react/static/js/main.57ba8dbc.chunk.js.map",
+    "main.js": "/tv-shows-react/static/js/main.c2af65a1.chunk.js",
+    "main.js.map": "/tv-shows-react/static/js/main.c2af65a1.chunk.js.map",
     "runtime-main.js": "/tv-shows-react/static/js/runtime-main.39d3ed89.js",
     "runtime-main.js.map": "/tv-shows-react/static/js/runtime-main.39d3ed89.js.map",
     "static/js/2.75b6e8b4.chunk.js": "/tv-shows-react/static/js/2.75b6e8b4.chunk.js",
     "static/js/2.75b6e8b4.chunk.js.map": "/tv-shows-react/static/js/2.75b6e8b4.chunk.js.map",
     "index.html": "/tv-shows-react/index.html",
-    "precache-manifest.dbfce0fc90126bdfc557b2eba4597fe9.js": "/tv-shows-react/precache-manifest.dbfce0fc90126bdfc557b2eba4597fe9.js",
+    "precache-manifest.5333283fb698539b4c2478dcb99d745c.js": "/tv-shows-react/precache-manifest.5333283fb698539b4c2478dcb99d745c.js",
     "service-worker.js": "/tv-shows-react/service-worker.js",
     "static/css/main.7562275d.chunk.css.map": "/tv-shows-react/static/css/main.7562275d.chunk.css.map",
     "static/js/2.75b6e8b4.chunk.js.LICENSE.txt": "/tv-shows-react/static/js/2.75b6e8b4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.39d3ed89.js",
     "static/js/2.75b6e8b4.chunk.js",
     "static/css/main.7562275d.chunk.css",
-    "static/js/main.57ba8dbc.chunk.js"
+    "static/js/main.c2af65a1.chunk.js"
   ]
 }
