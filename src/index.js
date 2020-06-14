@@ -18,7 +18,7 @@ async function fetch_show_details(show_link) {
 class App extends React.Component {
     render() {
         return (
-            <Router>
+            <Router basename="/tv-shows-react">
                 <Route exact path="/" component={TVShowsList} />
                 <Route exact path="/show/:show_link" component={TVShowDetails} />
             </Router>
